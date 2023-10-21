@@ -47,9 +47,9 @@ Il vous incombe de l'expliquer et d'apporter vos propres idées pour répondre a
 
 Voici le schéma de la base de données :
 
-![](.\img\logoSQL.png)
+![](./img/logoSQL.png)
 
-![](.\img\schemaBDD.png)
+![](./img/schemaBDD.png)
 
 ------
 
@@ -89,7 +89,7 @@ Vous pouvez vous connecter au serveur MariaDB (un dérivé de MySQL) de l'entrep
 
 # CONNECTION WITH MYSQL WORKBENCH
 
-![](.\img\connectionWorkbench.png)
+![](./img/connectionWorkbench.png)
 
 ------
 
