@@ -49,9 +49,9 @@ order by -- Tri
 ;
 ```
 
-**Liens de la requête :**
-[Avec commentaires](./sql/O_sales_1_number_of_products_sold.sql)
-[Sans commentaire](./sql/OL_sales_1_number_of_products_sold.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/O_sales_1_number_of_products_sold.sql)  
+[Sans commentaire](./sql/OL_sales_1_number_of_products_sold.sql)  
 
 <div style="page-break-after: always"></div>
 
