@@ -49,9 +49,9 @@ order by -- Tri
 ;
 ```
 
-**Liens de la requête :**	
+**Liens de la requête :**
 [Avec commentaires](./sql/O_sales_1_number_of_products_sold.sql)
-[Sans commentaires](./sql/OL_sales_1_number_of_products_sold.sql)
+[Sans commentaire](./sql/OL_sales_1_number_of_products_sold.sql)
 
 <div style="page-break-after: always"></div>
 
@@ -94,9 +94,9 @@ order by month(final.orderdate), final.country -- trie les résultats par mois e
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/O_finances_1_last_two_months_order_sales_by_country.sql)
-[Sans commentaires](./sql/OL_finances_1_last_two_months_order_sales_by_country.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/O_finances_1_last_two_months_order_sales_by_country.sql)  
+[Sans commentaire](./sql/OL_finances_1_last_two_months_order_sales_by_country.sql)  
 
 
 <div style="page-break-after: always"></div>
@@ -159,9 +159,9 @@ order by
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/O_finances_2_unpaid_orders.sql)
-[Sans commentaires](./sql/OL_finances_2_unpaid_orders.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/O_finances_2_unpaid_orders.sql)  
+[Sans commentaire](./sql/OL_finances_2_unpaid_orders.sql)  
 
 <div style="page-break-after: always"></div>
 
@@ -201,9 +201,9 @@ from top_products_sold top
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/O_logistics_1_stock_of_the_five_most_ordered_products.sql)
-[Sans commentaires](./sql/OL_logistics_1_stock_of_the_five_most_ordered_products.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/O_logistics_1_stock_of_the_five_most_ordered_products.sql)  
+[Sans commentaire](./sql/OL_logistics_1_stock_of_the_five_most_ordered_products.sql)  
 
 <div style="page-break-after: always"></div>
 
@@ -258,9 +258,9 @@ order by
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/O_humanResources_each_month_the_two_salespeople_with_the_highest_sales.sql)
-[Sans commentaires](./sql/OL_humanResources_each_month_the_two_salespeople_with_the_highest_sales.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/O_humanResources_each_month_the_two_salespeople_with_the_highest_sales.sql)  
+[Sans commentaire](./sql/OL_humanResources_each_month_the_two_salespeople_with_the_highest_sales.sql)  
 
 <div style="page-break-after: always"></div>
 
@@ -302,9 +302,9 @@ group by off.officecode -- Regroupement par code d'agence 'officecode'
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/S_finances_1_sales_per_Agency_and_salespeople.sql)
-[Sans commentaires](./sql/SL_finances_1_sales_per_Agency_and_salespeople.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/S_finances_1_sales_per_Agency_and_salespeople.sql)  
+[Sans commentaire](./sql/SL_finances_1_sales_per_Agency_and_salespeople.sql)  
 
 <div style="page-break-after: always"></div>
 
@@ -334,9 +334,9 @@ GROUP by cu.country -- Regroupement dess résultats par pays
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/S_finances_2_sales_vs_order_quantity_and_orders_by_country.sql)
-[Sans commentaires](./sql/SL_finances_2_sales_vs_order_quantity_and_orders_by_country.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/S_finances_2_sales_vs_order_quantity_and_orders_by_country.sql)  
+[Sans commentaire](./sql/SL_finances_2_sales_vs_order_quantity_and_orders_by_country.sql)  
 
 <div style="page-break-after: always"></div>
 
@@ -368,9 +368,9 @@ group by
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/S_logistics_1_Aggregate_product_information_by_supplier.sql)
-[Sans commentaires](./sql/SL_logistics_1_Aggregate_product_information_by_supplier.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/S_logistics_1_Aggregate_product_information_by_supplier.sql)  
+[Sans commentaire](./sql/SL_logistics_1_Aggregate_product_information_by_supplier.sql)  
 
 <div style="page-break-after: always"></div>
 
@@ -404,6 +404,6 @@ ORDER by -- Tri par
 ;
 ```
 
-**Liens de la requête :**	
-[Avec commentaires](./sql/S_logistics_2_Information_on_customer_orders.sql)
-[Sans commentaires](./sql/SL_logistics_2_Information_on_customer_orders.sql)
+**Liens de la requête :**  
+[Avec commentaires](./sql/S_logistics_2_Information_on_customer_orders.sql)  
+[Sans commentaire](./sql/SL_logistics_2_Information_on_customer_orders.sql)  
